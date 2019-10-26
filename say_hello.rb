@@ -2,4 +2,4 @@
 
 def intro(say_hello)
   puts "Hello" + say_hello
-  
+  intro 
