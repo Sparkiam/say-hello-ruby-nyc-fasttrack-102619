@@ -1,4 +1,4 @@
 # Build your say_hello method here
 
 def intro(say_hello)
-  puts "Hello Gabriela"
+  puts "Hello" + "Gabriela"
